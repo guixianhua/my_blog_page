@@ -1,0 +1,5 @@
+baseURL = 'https://guixianhua.com/'
+languageCode = 'en-us'
+title = 'XianHua Blog'
+theme = "diary"
+publishDir = "docs"
